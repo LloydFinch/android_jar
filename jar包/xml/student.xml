@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student id="1001" group="1">
+		<name>张三</name>
+		<sex>男</sex>
+		<age>30</age>
+		<email>zhangsan@163.com</email>
+		<birthday>1900-09-09</birthday>
+		<memo>组长</memo>
+	</student>
+	<student id="1002" group="1">
+		<name>lisi</name>
+		<sex>女</sex>
+		<age>23</age>
+		<email>lisi@163.com</email>
+		<birthday>2000-09-09</birthday>
+		<memo>组员</memo>
+	</student>
+	<student id="1003" group="1">
+		<name>wangwu</name>
+		<sex>男</sex>
+		<age>30</age>
+		<email>wangwu@163.com</email>
+		<birthday>1990-09-09</birthday>
+		<memo>组员</memo>
+	</student>
+	<student id="1004" group="2">
+		<name>Jack</name>
+		<sex>男</sex>
+		<age>30</age>
+		<email>jack@163.com</email>
+		<birthday>2001-09-09</birthday>
+		<memo>组长</memo>
+	</student>
+	<student id="1005" group="2">
+		<name>Rose</name>
+		<sex>女</sex>
+		<age>23</age>
+		<email>rose@163.com</email>
+		<birthday>2003-09-09</birthday>
+		<memo>组员</memo>
+	</student>
+	<student id="1006" group="3">
+		<name>Tom</name>
+		<sex>男</sex>
+		<age>30</age>
+		<email>tom@163.com</email>
+		<birthday>2008-09-09</birthday>
+		<memo>组长</memo>
+	</student>
+</students>
